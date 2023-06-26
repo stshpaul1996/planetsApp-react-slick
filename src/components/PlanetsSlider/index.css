@@ -1,0 +1,24 @@
+/* Write your CSS here */
+.planets-container {
+  background-image: url('https://assets.ccbp.in/frontend/react-js/planets-app/planets-bg-img.png');
+  background-size: cover;
+  height: 100vh;
+  font-family: 'Roboto';
+  padding: 30px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.planet-heading {
+  color: #05acff;
+  font-size: 34px;
+  font-weight: bold;
+  text-align: center;
+}
+
+.list-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}

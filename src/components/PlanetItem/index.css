@@ -1,0 +1,24 @@
+/* Write your CSS here */
+.list-item-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.item-image {
+  height: 250px;
+  width: 250px;
+}
+
+.heading {
+  color: #f8fafc;
+  font-size: 24px;
+  font-weight: 500;
+}
+
+.text {
+  font-weight: 100;
+  font-size: 14px;
+  color: #f1f5f9;
+}
